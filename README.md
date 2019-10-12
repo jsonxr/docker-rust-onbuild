@@ -1,6 +1,6 @@
-# docker-rust-onbuild
+# jsonxr/rust-onbuild
 
-Minimalist docker image based on the empty image scratch.
+Minimalist Rust Docker image based on the empty image scratch.  It does this by statically compiling the rust binaries with all the dependencies required to run.
 
 * Creates a release based on scratch
 * Open Container Initiative Labels
